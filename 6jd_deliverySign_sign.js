@@ -1,5 +1,5 @@
 /*
-23 0,14 * * * jd_deliverySign_sign.js
+47 8 * * * jd_deliverySign_sign.js
 */
 
 const $ = new Env('天天领豆');
