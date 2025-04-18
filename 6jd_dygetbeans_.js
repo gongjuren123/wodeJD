@@ -1,5 +1,5 @@
 /*
-35 0,6 * * * jd_dygetbeans_.js
+14 8 * * * jd_dygetbeans_.js
  */
 
 const $ = new Env('每日抽豆');
