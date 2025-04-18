@@ -1,5 +1,5 @@
 /*
-cron: 10 9 * * *
+cron: 13 8 * * *
 */
 
 const $ = new Env('hs每日签到');
