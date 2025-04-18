@@ -20,6 +20,7 @@ whyour/qinglong:debian
 就是缺少引号里的依赖，去安装就行。
 
 ql repo https://github.com/gongjuren123/wodeJD.git "^(jd_|6jd_)" "" "^jd[^_]|USER|JD|function|sendNotify|utils"
+
 国内机（带代理）：
 
 ```
