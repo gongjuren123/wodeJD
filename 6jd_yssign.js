@@ -1,5 +1,5 @@
 /*
-cron: 20 10 * * *
+cron: 20 8 * * *
 */
 
 const $ = new Env('ys每日签到');
