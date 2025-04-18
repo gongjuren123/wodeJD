@@ -1,5 +1,5 @@
 /*
-cron: 1 1 1 1 *
+cron: 9 8 * * *
 */
 
 const $ = new Env('秒送抽奖');
