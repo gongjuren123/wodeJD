@@ -1,5 +1,5 @@
 /*
-cron: 1 1 1 1 *
+cron: 30 8 * * *
  */
 
 const $ = new Env('鲜补转转机');
