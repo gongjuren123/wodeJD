@@ -3,7 +3,11 @@
 
 声明: 此库所有内容仅用于个人学习！！！
 
-### [TG CHANEL](https://t.me/dylan_jdpro)
+镜像
+whyour/qinglong:debian
+
+5700
+
 
 
 国内机（带代理）：
