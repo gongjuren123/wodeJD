@@ -1,5 +1,5 @@
 /*
-cron: 1 1 1 1 *
+cron: 35 8 * * *
  */
 
 const $ = new Env('社区抽奖');
