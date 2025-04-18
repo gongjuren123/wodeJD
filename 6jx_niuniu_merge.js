@@ -1,5 +1,5 @@
 /*
-7 7 29 2 * https://raw.githubusercontent.com/6dylan6/jdpro/main/jx_niuniu_merge.js
+20 8 * * * https://raw.githubusercontent.com/6dylan6/jdpro/main/jx_niuniu_merge.js
 跑会黑，一周后解，循环
 */
 const $ = new Env('牛牛赚钱合成');
