@@ -1,5 +1,5 @@
 /*
-5 5 * * * jd_hx_draw.js
+12 8 * * * jd_hx_draw.js
  */
 
 const $ = new Env('惠寻抽奖');
