@@ -9,7 +9,17 @@ whyour/qinglong:debian
 5700
 
 
+用青龙面板赚取金豆
+浏览器获取京东cookie教程    
+去https://my.m.jd.com/   登录然后抓取
 
+有效期 30 天。
+名字：JD_COOKIE
+
+这是报错Error: Cannot find module 'jsdom'
+就是缺少引号里的依赖，去安装就行。
+
+ql repo https://github.com/gongjuren123/wodeJD.git "^(jd_|6jd_)" "" "^jd[^_]|USER|JD|function|sendNotify|utils"
 国内机（带代理）：
 
 ```
