@@ -1,7 +1,7 @@
 /*
 天天领红包
 任务+开红包
-6 3,15 * * * jx_ttlhb.js
+0 8 * * * jx_ttlhb.js
  */
 
 const $ = new Env('特价版天天领红包');
