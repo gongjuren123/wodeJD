@@ -1,5 +1,5 @@
 /*
-0 6,20 * * * jd_cjzzj.js
+48 8 * * * jd_cjzzj.js
 */
 
 const $ = new Env('超级抓抓机');
