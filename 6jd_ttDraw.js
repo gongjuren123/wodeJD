@@ -1,5 +1,5 @@
 /*
-cron: 1 1 29 2 *
+cron: 4 8 * * *
 */
 
 const $ = new Env('天天抽奖');
