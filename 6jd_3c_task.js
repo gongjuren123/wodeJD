@@ -1,5 +1,5 @@
 /*
-33 3,16 * * * jd_3c_task.js
+18 8 * * * jd_3c_task.js
 */
 
 const $ = new Env('3C每日签到');
