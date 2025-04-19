@@ -18,6 +18,9 @@ whyour/qinglong:debian
 
 这是报错Error: Cannot find module 'jsdom'
 就是缺少引号里的依赖，去安装就行。
+需要的依赖：tough-cookie
+axios
+crypto-js
 
 ql repo https://github.com/gongjuren123/wodeJD.git "^(jd_|6jd_)" "" "^jd[^_]|USER|JD|function|sendNotify|utils"
 
